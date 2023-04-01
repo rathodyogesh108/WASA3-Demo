@@ -8,6 +8,7 @@ public class sample {
 	public void sample1()
 	{
 		System.out.println("run");
+		System.out.println("knee");
 	}
 
 }
