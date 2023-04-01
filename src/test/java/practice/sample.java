@@ -9,6 +9,7 @@ public class sample {
 	{
 		System.out.println("run");
 		System.out.println("knee");
+		System.out.println("maya");
 	}
 
 }
